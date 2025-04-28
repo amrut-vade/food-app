@@ -1,0 +1,77 @@
+
+{
+    "id": "42060",
+    "name": "Sharief Bhai Biryani",
+    "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/2/17/d12f9cc3-5e55-48f5-a32b-8bbd5ac089d7_42060.jpg",
+    "locality": "Koramangala",
+    "areaName": "Koramangala",
+    "costForTwo": "₹400 for two",
+    "cuisines": [
+        "Biryani",
+        "South Indian",
+        "Kebabs",
+        "Ramzan Special",
+        "Sweets",
+        "Beverages"
+    ],
+    "avgRating": 4.2,
+    "parentId": "469102",
+    "avgRatingString": "4.2",
+    "totalRatingsString": "53K+",
+    "promoted": true,
+    "adTrackingId": "cid=28136394~p=0~adgrpid=28136394#ag1~mp=SWIGGY_IN~bl=FOOD~aet=RESTAURANT~aeid=42060~plpr=COLLECTION~eid=7d557db5-5016-422f-a4e8-fcb8db0f3e44~srvts=1745317205484~collid=80475",
+    "sla": {
+        "deliveryTime": 43,
+        "lastMileTravel": 5.8,
+        "serviceability": "SERVICEABLE",
+        "slaString": "40-45 mins",
+        "lastMileTravelString": "5.8 km",
+        "iconType": "ICON_TYPE_EMPTY"
+    },
+    "availability": {
+        "nextCloseTime": "2025-04-23 03:00:00",
+        "opened": true
+    },
+    "badges": {},
+    "isOpen": true,
+    "type": "F",
+    "badgesV2": {
+        "entityBadges": {
+            "textBased": {},
+            "imageBased": {},
+            "textExtendedBadges": {}
+        }
+    },
+    "aggregatedDiscountInfoV3": {
+        "header": "ITEMS",
+        "subHeader": "AT ₹199"
+    },
+    "orderabilityCommunication": {
+        "title": {},
+        "subTitle": {},
+        "message": {},
+        "customIcon": {},
+        "commsStyling": {}
+    },
+    "differentiatedUi": {
+        "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+        "differentiatedUiMediaDetails": {
+            "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+        }
+    },
+    "reviewsSummary": {},
+    "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+    "restaurantOfferPresentationInfo": {},
+    "externalRatings": {
+        "aggregatedRating": {
+            "rating": "4.0",
+            "ratingCount": "4.9K+"
+        },
+        "source": "GOOGLE",
+        "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+    },
+    "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY",
+    "campaignId": "28136394"
+}
